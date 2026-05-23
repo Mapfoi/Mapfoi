@@ -22,7 +22,7 @@ Open to offers!
   
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | FASM (Assembly) • C • C# (OOP) • Python |
+| **Languages** | FASM (Assembly) • C • C# (OOP) • Java • Python |
 | **Systems & Theory** | Computer Systems & Networks • Information Theory • Compiler Technologies |
 | **Engineering** | Software Engineering fundamentals • Algorithmization & Programming basics |
 | **Tools** | Git • Linux • CI/CD |
