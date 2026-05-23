@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Mapfoi/Mapfoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps-oriented developer | Low-level & Web Technologies
 
-Here are some ideas to get you started:
+Building efficient, automatable systems with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Systems & Networks
+- Information Theory
+- Object-Oriented Programming
+- Web Technologies
+- Software Engineering fundamentals
+- Algorithmization & Programming basics
+- Compiler Technologies
+- FASM assembly language
