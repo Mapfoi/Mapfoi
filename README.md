@@ -12,6 +12,8 @@ My background spans from **FASM assembly** and **compiler technologies** to **we
 
 Currently, I'm deepening my DevOps practices while keeping a sharp eye on system-level optimizations.
 
+Open to offers!
+
 ---
 
 ## 🛠️ Tech Stack
